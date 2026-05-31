@@ -10,13 +10,13 @@ const links = {
   Company: [
     { label: "About", href: "#" },
     { label: "Blog", href: "#" },
-    { label: "Contact", href: "mailto:hello@tooltrai.com.au" },
+    { label: "Contact", href: "mailto:hello@tooltrail.com.au" },
   ],
   Support: [
     { label: "Help Centre", href: "#" },
     { label: "FAQ", href: "#faq" },
     { label: "Status", href: "#" },
-    { label: "sales@tooltrai.com.au", href: "mailto:sales@tooltrai.com.au" },
+    { label: "sales@tooltrail.com.au", href: "mailto:sales@tooltrail.com.au" },
   ],
   Legal: [
     { label: "Privacy Policy", href: "#" },

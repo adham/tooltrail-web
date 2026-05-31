@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     title: "ToolTrail — Know Where Every Tool Is, Right Now",
     description:
       "QR-based tool tracking for Australian field teams. Real-time oversight, photo evidence, and full audit trails.",
-    url: "https://www.tooltrai.com.au",
+    url: "https://www.tooltrail.com.au",
     siteName: "ToolTrail",
     locale: "en_AU",
     type: "website",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     description:
       "QR-based tool tracking for Australian field teams. Real-time oversight, photo evidence, and full audit trails.",
   },
-  metadataBase: new URL("https://www.tooltrai.com.au"),
+  metadataBase: new URL("https://www.tooltrail.com.au"),
 };
 
 export default function RootLayout({

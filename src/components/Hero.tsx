@@ -1,6 +1,6 @@
 import { ArrowRight, CheckCircle } from "lucide-react";
 
-const APP_SIGNUP_URL = "https://app.tooltrai.com.au/signup";
+const APP_SIGNUP_URL = "https://app.tooltrail.com.au/signup";
 
 const trustPoints = [
   "14-day free trial",
@@ -97,7 +97,7 @@ export default function Hero() {
               </div>
               <div className="flex-1 mx-4">
                 <div className="bg-slate-700/50 rounded-md px-3 py-1 text-slate-400 text-xs font-mono text-center">
-                  app.tooltrai.com.au/manager
+                  app.tooltrail.com.au/manager
                 </div>
               </div>
             </div>

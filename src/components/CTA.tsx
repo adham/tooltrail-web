@@ -1,6 +1,6 @@
 import { ArrowRight } from "lucide-react";
 
-const APP_SIGNUP_URL = "https://app.tooltrai.com.au/signup";
+const APP_SIGNUP_URL = "https://app.tooltrail.com.au/signup";
 
 export default function CTA() {
   return (
@@ -31,7 +31,7 @@ export default function CTA() {
             <ArrowRight className="w-5 h-5" />
           </a>
           <a
-            href="mailto:sales@tooltrai.com.au"
+            href="mailto:sales@tooltrail.com.au"
             className="text-slate-400 hover:text-white text-sm font-medium transition-colors"
           >
             Talk to sales →

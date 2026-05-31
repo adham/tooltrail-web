@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { Menu, X } from "lucide-react";
 
-const APP_URL = "https://app.tooltrai.com.au";
+const APP_URL = "https://app.tooltrail.com.au";
 
 const navLinks = [
   { label: "Features", href: "#features" },

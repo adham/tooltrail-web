@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { Check, Zap } from "lucide-react";
 
-const APP_SIGNUP_URL = "https://app.tooltrai.com.au/signup";
+const APP_SIGNUP_URL = "https://app.tooltrail.com.au/signup";
 
 const plans = [
   {
@@ -202,7 +202,7 @@ export default function Pricing() {
               <a
                 href={
                   plan.name === "Enterprise"
-                    ? "mailto:sales@tooltrai.com.au"
+                    ? "mailto:sales@tooltrail.com.au"
                     : APP_SIGNUP_URL
                 }
                 className={`w-full text-center py-3 rounded-xl text-sm font-semibold transition-all duration-200 mb-8 ${plan.ctaStyle}`}
@@ -258,7 +258,7 @@ export default function Pricing() {
 
         <p className="text-center text-slate-400 text-sm mt-8">
           All prices in AUD. GST will be added at checkout.{" "}
-          <a href="mailto:sales@tooltrai.com.au" className="text-orange-500 hover:underline">
+          <a href="mailto:sales@tooltrail.com.au" className="text-orange-500 hover:underline">
             Contact us
           </a>{" "}
           for volume discounts or custom requirements.

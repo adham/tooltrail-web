@@ -89,7 +89,7 @@ export default function FAQ() {
         <p className="text-center text-slate-500 text-sm mt-10">
           Still have questions?{" "}
           <a
-            href="mailto:hello@tooltrai.com.au"
+            href="mailto:hello@tooltrail.com.au"
             className="text-orange-500 hover:underline font-medium"
           >
             Email us
