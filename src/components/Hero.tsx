@@ -144,7 +144,7 @@ export default function Hero() {
                     {
                       asset: "DeWalt Circular Saw",
                       worker: "Jamie Lee",
-                      action: "Returned — Good",
+                      action: "Returned - Good",
                       time: "14 min ago",
                       status: "returned",
                     },

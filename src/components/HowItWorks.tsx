@@ -10,14 +10,14 @@ const steps = [
     number: "02",
     title: "Workers scan & go",
     description:
-      "A quick camera scan checks a tool in or out — right from any smartphone browser, no app install needed. Safety acknowledgements, return photo requirements, and due dates are enforced automatically.",
+      "A quick camera scan checks a tool in or out - right from any smartphone browser, no app install needed. Safety acknowledgements, return photo requirements, and due dates are enforced automatically.",
     detail: "Works on any iOS or Android · No app download · PIN-based login",
   },
   {
     number: "03",
     title: "Managers stay in control",
     description:
-      "Get live overdue alerts, triage reported issues, approve or block checkouts, track maintenance schedules, and pull complete audit reports — all from one dashboard, on any device.",
+      "Get live overdue alerts, triage reported issues, approve or block checkouts, track maintenance schedules, and pull complete audit reports - all from one dashboard, on any device.",
     detail: "Real-time dashboard · Overdue alerts · Full audit export",
   },
 ];

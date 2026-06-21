@@ -19,7 +19,7 @@ const testimonials = [
   },
   {
     quote:
-      "Setup took less than an hour. Workers were scanning tools by lunch. The QR scan flow is so simple that our guys actually use it — and that's what we'd always struggled with before.",
+      "Setup took less than an hour. Workers were scanning tools by lunch. The QR scan flow is so simple that our guys actually use it - and that's what we'd always struggled with before.",
     name: "David Russo",
     title: "Workshop Manager",
     company: "Russo Industrial",

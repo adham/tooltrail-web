@@ -30,7 +30,7 @@ const roles = [
     points: [
       "Real-time asset dashboard",
       "Overdue asset alerts and reports",
-      "Issue triage — approve or block checkouts",
+      "Issue triage - approve or block checkouts",
       "Maintenance schedule tracking",
       "Worker management and SMS onboarding",
       "Complete audit log and history",
