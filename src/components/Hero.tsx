@@ -50,7 +50,7 @@ export default function Hero() {
           {/* Subheadline */}
           <p className="text-lg sm:text-xl text-slate-400 max-w-2xl mx-auto leading-relaxed mb-10">
             ToolTrail gives site managers real-time visibility into every piece
-            of equipment — from check-out to return, with QR codes, photo
+            of equipment from check-out to return, with QR codes, photo
             evidence, and automatic overdue alerts.
           </p>
 

@@ -19,7 +19,7 @@ const features = [
     icon: MapPin,
     title: "Real-Time Tracking",
     description:
-      "See who has what, which zone it belongs to, and when it's due back — live. The manager dashboard updates the moment any tool moves.",
+      "See who has what, where it belongs to, and when it's due back live. The manager dashboard updates the moment any tool moves.",
     accent: "bg-green-500/10 text-green-400",
   },
   {
@@ -33,14 +33,14 @@ const features = [
     icon: AlertTriangle,
     title: "Issue Reporting",
     description:
-      "Workers flag damage from their phone the moment they spot it — with photos and notes. Managers triage instantly: block checkout until fixed, or allow it with a warning. Nothing slips through.",
+      "Workers flag damage from their phone the moment they spot it with photos and notes. Managers triage instantly: block checkout until fixed, or allow it with a warning. Nothing slips through.",
     accent: "bg-amber-500/10 text-amber-400",
   },
   {
     icon: Wrench,
     title: "Maintenance Scheduling",
     description:
-      "Set per-asset service intervals. ToolTrail tracks the last maintenance date and alerts you when service is overdue — before a breakdown costs you a job.",
+      "Set per-asset service intervals. ToolTrail tracks the last maintenance date and alerts you when service is overdue before a breakdown costs you a job.",
     accent: "bg-red-500/10 text-red-400",
   },
   {
